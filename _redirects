@@ -1,2 +1,5 @@
 /index.php / 301
-/poland-pl/* /nine-casino-pl/:splat 301
+/nine-casino-pl-pl/* /nine-casino-opinie-pl/:splat 301
+/ninecasino-pl/* /nine-casino-opinie-pl/:splat 301
+/nine-casino-pl/* /nine-casino-opinie-pl/:splat 301
+/poland-pl/* /nine-casino-opinie-pl/:splat 301
